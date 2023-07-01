@@ -1,0 +1,21 @@
+<xml>
+    <color name="orange">#F26627</color>
+    <color name="light_orange">#F9A26C</color>
+    <color name="white_background">#E5E5E5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="icon_grey">#C4C4C4</color>
+    <color name="icon_white">#DADADA</color>
+    <color name="text_field_background_grey">#F4F4F4</color>
+    <color name="text_field_hint_grey">#BBBBBB</color>
+    <color name="text_grey">#7B7B7B</color>
+    <color name="text_light_grey">#AAAAAA</color>
+    <color name="text_black">#303030</color>
+    <color name="text_dark_blue">#325D79</color>
+    <color name="background_purple">#e9d8f2</color>
+    <color name="icon_purple">#6a0dad</color>
+    <color name="purple_transparant">#a167c9</color>
+    <color name="green_low">#D6FEAF</color>
+    <color name="green_medium">#21FA1C</color>
+    <color name="red_low">#FEAFAF</color>
+    <color name="red_medium">#FA1C1C</color>
+</xml>
